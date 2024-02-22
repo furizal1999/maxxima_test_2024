@@ -2,7 +2,6 @@ Projek ini adalah projek test di PT. Maxxima Innovative Engineering dengan intru
 Untuk memulai menggunakan aplikasi ini silahkan import database dan jalankan pada komputer anda.
 
 Note: Aplikasi ini menggunakan Laravel 10 sehingga pastikan:
-Versi PHP: 8.2.4
-Versi composer: 2.5.5
+Versi PHP: 8.2.4 dan versi Composer: 2.5.5
 
 More question: furizal.id@gmail.com
